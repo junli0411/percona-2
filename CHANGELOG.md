@@ -8,6 +8,10 @@ This file is used to list changes made in each version of the percona cookbook.
 
 - Fix debian_password as a string for testing
 
+### Changed
+
+- Disable enforce_idempotency until we can properly fix it
+
 ## 0.17.1 - 2020-05-14
 
 - resolved cookstyle error: recipes/access_grants.rb:28:40 convention: `Layout/TrailingWhitespace`
