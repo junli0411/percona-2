@@ -15,6 +15,7 @@ This file is used to list changes made in each version of the percona cookbook.
 - Disable enforce_idempotency until we can properly fix it
 - Convert to InSpec tests and refactor test cookbook recipes
 - Don't install abi_version packages on Debian/Ubuntu
+- Standardise files with files in sous-chefs/repo-management
 
 ## 0.17.1 - 2020-05-14
 
