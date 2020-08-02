@@ -17,6 +17,10 @@ This file is used to list changes made in each version of the percona cookbook.
 - Don't install abi_version packages on Debian/Ubuntu
 - Standardise files with files in sous-chefs/repo-management
 
+### Removed
+
+- Remove support for Amazon Linux
+
 ## 0.17.1 - 2020-05-14
 
 - resolved cookstyle error: recipes/access_grants.rb:28:40 convention: `Layout/TrailingWhitespace`
