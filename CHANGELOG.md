@@ -8,6 +8,7 @@ This file is used to list changes made in each version of the percona cookbook.
 
 - Fix debian_password as a string for testing
 - Update apt gpg key
+- Fixes for supporting 5.7
 
 ### Changed
 
